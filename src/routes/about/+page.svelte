@@ -24,10 +24,4 @@
 		using it with JavaScript disabled!
 	</p>
 
-
-	<p>
-		Lista kursów Szkolenia dla firm i klientów indywidualnych.
-	</p>
-
-	<p>Hello</p>
 </div>
