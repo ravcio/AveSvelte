@@ -26,6 +26,8 @@
 
 
 	<p>
-		Lista kursów Szkolenia dla firm i klientów indywidualnych
+		Lista kursów Szkolenia dla firm i klientów indywidualnych.
 	</p>
+
+	<p>Hello</p>
 </div>
