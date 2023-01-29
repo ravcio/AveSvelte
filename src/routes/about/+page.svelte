@@ -23,4 +23,9 @@
 		The <a href="/sverdle">Sverdle</a> page illustrates SvelteKit's data loading and form handling. Try
 		using it with JavaScript disabled!
 	</p>
+
+
+	<p>
+		Lista kursów Szkolenia dla firm i klientów indywidualnych
+	</p>
 </div>
